@@ -8,8 +8,9 @@ and online.
 - While the stream plays, a service shows the artist, title and cover of the track and the show on
   air, in step with the music (it waits for the ICY title of the stream).
 - Full screen scene as on [zunradio.cz](https://zunradio.cz/): the cover in a red card, the artist
-  and title in red fields, the record label and the show. With the visualisation
-  `visualization.zunradio`, where it is available, dots and rings move to the beat.
+  and title in red fields, the record label and the show. When the separate visualisation
+  `visualization.zunradio` is installed (where it is available for your device) and chosen in
+  Player > Music > Visualisation, dots and rings move to the beat; otherwise the dots stay still.
 
 Requires Kodi 20 (Nexus) or later. Install it from the official Kodi add-on repository
 (Add-ons > Music add-ons > ZUN rádio).
